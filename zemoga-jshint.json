@@ -19,7 +19,6 @@
     "maxdepth" : 3,
     "maxstatements": 4,
     "globals": {
-        "angular": false,
         "expect": false,
         "it": false,
         "element": false,

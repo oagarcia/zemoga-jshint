@@ -17,7 +17,6 @@
     "laxcomma": true,
     "maxparams" : 3,
     "maxdepth" : 3,
-    "maxstatements": 4,
     "globals": {
         "expect": false,
         "it": false,
